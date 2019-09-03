@@ -1,0 +1,20 @@
+# Site settings
+author: Chaya Deaver
+title: 
+header-img: img/home-bg.png
+email: chayadeaver@gmail.com
+copyright_name: Chaya Deaver
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: chayadeaver
+github_username:  chayadeaver
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
