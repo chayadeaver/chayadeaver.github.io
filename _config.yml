@@ -1,11 +1,11 @@
 # Site settings
 author: Chaya Deaver
-title: 
+title: Chaya's Coding Journey
 header-img: img/home-bg.png
 email: chayadeaver@gmail.com
 copyright_name: Chaya Deaver
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Pathway To A New Career
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: chayadeaver
 github_username:  chayadeaver
