@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The "Why": Reason for My Career Change"
-date:       2019-09-12 17:48:18 +0000
+date:       2019-09-12 13:48:19 -0400
 permalink:  the_why_reason_for_my_career_change
 ---
 
