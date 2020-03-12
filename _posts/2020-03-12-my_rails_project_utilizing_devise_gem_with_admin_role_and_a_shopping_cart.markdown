@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Rails Project  Utilizing Devise Gem with Admin Role and a Shopping Cart"
-date:       2020-03-12 14:49:35 +0000
+date:       2020-03-12 10:49:36 -0400
 permalink:  my_rails_project_utilizing_devise_gem_with_admin_role_and_a_shopping_cart
 ---
 
